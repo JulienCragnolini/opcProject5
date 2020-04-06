@@ -1,5 +1,4 @@
-# opcProject5
-Imaginez un générateur de citations
+# opcProject5 Imaginez un générateur de citations
 
 Etape 1 : des citations aléatoires
 Le saviez-vous ? Il existe des générateurs de texte en ligne. Tapez "générateur de citation" et vous trouverez de nombreux sites qui génèrent aléatoirement des citations en assemblant des bouts de phrase.
